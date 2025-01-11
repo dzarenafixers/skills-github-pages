@@ -1,54 +1,42 @@
-<header>
+<h1 align="center">Hi 👋, I'm MONCEF50G</h1>
+<h3 align="center">A passionate frontend developer from ALGERIA</h3>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moncef50g&label=Profile%20views&color=0e75b6&style=flat" alt="moncef50g" /> </p>
 
-# GitHub Pages
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moncef50g" alt="moncef50g" /></a> </p>
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+- 🔭 I’m currently working on [PLUGINS SCPSL](https://github.com/MONCEF50G/SCP-035)
 
-</header>
+- 🌱 MY EMAIL FOR CONTACTE **dzarenafixersinfo@gmail.com**
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+- 👯 MY YOUTUB CHANNEL [mado](https://www.youtube.com/@mado1995)
 
-## Step 1: Enable GitHub Pages
+- 🤝 MY DISCORD SERVER [DZ ARENA FIXERS](https://discord.gg/F9GCpMXMpQ)
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+- 👨‍💻 All of my projects are available at [https://github.com/MONCEF50G](https://github.com/MONCEF50G)
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+- 📝 I regularly write articles on [https://sites.google.com/d/1wZRu0Xo37FnmK1EHXHTMUDdb6wMMfCc4/p/1LSw5-rixVAM3-OmQCSTADdemCsr0aA3L/edit](https://sites.google.com/d/1wZRu0Xo37FnmK1EHXHTMUDdb6wMMfCc4/p/1LSw5-rixVAM3-OmQCSTADdemCsr0aA3L/edit)
 
-### :keyboard: Activity: Enable GitHub Pages
+- 💬 Ask me about **EMAIL OR DISCORD**
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+- 📫 How to reach me **dzarenafixersinfo@gmail.com**
 
-<footer>
+- 📄 Know about my experiences [YES FOR 15 MOUNTH](YES FOR 15 MOUNTH)
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+- ⚡ Fun fact **GAMES DEVLOPER**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/moncef50g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moncef50g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@mado1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mado1995" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/F9GCpMXMpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/F9GCpMXMpQ" height="30" width="40" /></a>
+</p>
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moncef50g&show_icons=true&locale=en&layout=compact" alt="moncef50g" /></p>
 
-</footer>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moncef50g&show_icons=true&locale=en" alt="moncef50g" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moncef50g&" alt="moncef50g" /></p>
